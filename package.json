@@ -1,0 +1,22 @@
+{
+  "name": "openia",
+  "version": "1.0.0",
+  "description": "Open IA - Pa mi gente!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrodaNoel/openia.git"
+  },
+  "keywords": [
+    "openia"
+  ],
+  "author": "Broda Noel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrodaNoel/openia/issues"
+  },
+  "homepage": "https://github.com/BrodaNoel/openia#readme"
+}
